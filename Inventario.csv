@@ -1,0 +1,98 @@
+No.,Coodinación,Subdirección,Nombre,Apellido Paterno,Apellido Materno,Nombre completo,Correo Electrónico Institucional,Teléfono (10 dígitos),IP (6 dígitos),Cargo,Tipo de equipo,Esta en uso (SI/NO),Serie,Serie Docking
+1,Coordinación A,3,Maria Fernanda,Soto,Murillo,MARIA FERNANDA SOTO MURILLO,fernanda.soto@ine.mx,5555991600,Pendiente,ANALISTA PROFESIONAL EJECUTIVO B,Laptop,Si,MP1CV1WK ,M2B263Y2 
+2,Coordinación A,3,Karina Yazmin,Martinez, Arriaga,KARINA YAZMIN MARTINEZ  ARRIAGA,karina.martinez@ine.mx,5555991600,Pendiente,ANALISTA PROFESIONAL EJECUTIVO B,Laptop,Si,MP1CV1SC,Pendiente
+3,Coordinación A,3,Wilfrido David ,Ramírez,Borja,WILFRIDO DAVID  RAMÍREZ BORJA,wilfrido.ramirez@ine.mx,5555991600,372178,PROFESIONAL EJECUTIVO DPN,Laptop,Si,MP1CUZTF,M2B263YC
+4,Coordinación A,3,Ramón Salvador,González,Díaz,RAMÓN SALVADOR GONZÁLEZ DÍAZ,ramon.gonzalezd@ine.mx,5555991600,421608,ANALISTA PROFESIONAL EJECUTIVO,Laptop,Si,MP1CV46S,M2B2640D
+5,Coordinación A,3,Alejandra Guadalupe,Parada,Ledesma,ALEJANDRA GUADALUPE PARADA LEDESMA,alejandra.parada@ine.mx,5555991600,Pendiente,PROFESIONAL EJECUTIVO DPN,Laptop,Si,MP1CUZW2,M2B263YT
+6,Coordinación A,3,Yunuen,Téllez,Jaramillo,YUNUEN TÉLLEZ JARAMILLO,yunuen.tellez@ine.mx,5539650523,421608,PROFESIONAL EJECUTIVO DPN,Laptop,Si,MP1CV41D,M2B263Z7
+7,Coordinación A,3,Artemio,Sánchez,Sánchez,ARTEMIO SÁNCHEZ SÁNCHEZ,artemio.sanchezs@ine.mx,5555991600,421608,LÍDER DE PROYECTO DE DPN,Laptop,Si,MP1CV21A,M2B263ZP
+8,Coordinación A,3,Jakousi Valentín,Real,Gómez,JAKOUSI VALENTÍN REAL GÓMEZ,jakousi.real@ine.mx,5555991600,Pendiente,LÍDER DE PROYECTO DE DPN,Laptop,Si,PF1SABQ4,M2H0TK0T
+9,Coordinación A,3,Nestor Iván,Sánchez,Chavarría,NESTOR IVÁN SÁNCHEZ CHAVARRÍA,nestor.sanchez@ine.mx,5555991600,Pendiente,PROFESIONAL EJECUTIVO DPN,Laptop,Si,MP1CUXN9,M2B1VL9G
+10,Coordinación A,3,Karina Yazmin,Martinez, Arriaga,KARINA YAZMIN MARTINEZ  ARRIAGA,karina.martinez@ine.mx,5555991600,Pendiente,ANALISTA PROFESIONAL EJECUTIVO B,Escritorio,Si,MJ06HDEX,Sin Docking
+11,Coordinación A,3,Wilfrido David ,Ramírez,Borja,WILFRIDO DAVID  RAMÍREZ BORJA,wilfrido.ramirez@ine.mx,5555991600,372178,PROFESIONAL EJECUTIVO DPN,Escritorio,Si,MJ06LN1Q,Sin Docking
+12,Coordinación A,3,Ramón Salvador,González,Díaz,RAMÓN SALVADOR GONZÁLEZ DÍAZ,ramon.gonzalezd@ine.mx,5555991600,421608,ANALISTA PROFESIONAL EJECUTIVO,Escritorio,Si,MJ06LN1V,Sin Docking
+13,Coordinación A,3,Alejandra Guadalupe,Parada,Ledesma,ALEJANDRA GUADALUPE PARADA LEDESMA,alejandra.parada@ine.mx,5555991600,Pendiente,PROFESIONAL EJECUTIVO DPN,Escritorio,Si,MJ06LN1J,Sin Docking
+14,Coordinación A,3,Yunuen,Téllez,Jaramillo,YUNUEN TÉLLEZ JARAMILLO,yunuen.tellez@ine.mx,5539650523,421608,PROFESIONAL EJECUTIVO DPN,Escritorio,Si,MJ06SLYR,Sin Docking
+15,Coordinación A,3,Artemio,Sánchez,Sánchez,ARTEMIO SÁNCHEZ SÁNCHEZ,artemio.sanchezs@ine.mx,5555991600,421608,LÍDER DE PROYECTO DE DPN,Escritorio,Si,MJ06HDEG,Sin Docking
+16,Coordinación A,3,Maria Fernanda,Soto,Murillo,MARIA FERNANDA SOTO MURILLO,fernanda.soto@ine.mx,5555991600,Pendiente,ANALISTA PROFESIONAL EJECUTIVO B,Escritorio,Si,MJ06HDDZ,Sin Docking
+17,Coordinación B,Coordinadora,Karina Angélica,Rangel,González,KARINA ANGÉLICA RANGEL GONZÁLEZ,karina.rangel@ine.mx,5520937126,372185,COORDINADORA,Laptop,Si,MP1CUXNR,M2B1VHPK
+18,Coordinación B,Pendiente,Eunice,Coatl ,López,EUNICE COATL  LÓPEZ,eunice.coatl@ine.mx,5547928431,421119,ANALISTA JUNIOR,Laptop,Si,MP1CUZS3,M2B263X2
+19,Coordinación A,pendiente,Claudia Marlen,Enriquez,Terreros,CLAUDIA MARLEN ENRIQUEZ TERREROS,claudia.enriquezt@ine.mx,5555991600,421174,ANALISTA JUNIOR,Laptop,Si,MP1CV20E,M2B263ZA
+20,Coordinación B,2,Gloria Elia,Rodríguez,Ojeda,GLORIA ELIA RODRÍGUEZ OJEDA,gloria.rodriguezo@ine.mx,5555991600,423126,SUBDIRECTORA / SUBDIRECTOR,Laptop,Si,5CD6164NKT,Sin Docking
+21,Coordinación B,2,Jessica,Fuentes ,Saavedra,JESSICA FUENTES  SAAVEDRA,jessica.fuentes@ine.mx,5555991600,372188,PROFESIONAL EJECUTIVO DPN,Laptop,Si,MP1CUZS0,M2B263X1
+22,Coordinación B,2,José Guadalupe,Avila,Miguel,JOSÉ GUADALUPE AVILA MIGUEL,guadalupe.avilam@ine.mx,5555991600,372186,ANALISTA PROFESIONAL EJECUTIVO,Laptop,Si,MP1CUXMH,M2B1VHM9
+23,Coordinación B,2,Dolores Lizbeth,García,Contreras,DOLORES LIZBETH GARCÍA CONTRERAS,dolores.garciac@ine.mx,5555991600,Pendiente,ANALISTA PROFESIONAL EJECUTIVO B,Laptop,Si,MP1CUXMR,M2B1VHPB
+24,Coordinación B,2,Elizabeth,Ramírez,Altamirano,ELIZABETH RAMÍREZ ALTAMIRANO,elizabeth.ramireza@ine.mx,5555991600,423175,LÍDER DE PROYECTO DE DPN,Laptop,Si,MP1CUZTG,M2B263YD
+25,Coordinación B,2,Pamela,Alcántara,Gómez,PAMELA ALCÁNTARA GÓMEZ,pamela.alcantara@ine.mx,5555991600,Pendiente,ANALISTA PROFESIONAL EJECUTIVO,Laptop,Si,MP1CUXKV,M2B1VHMB
+26,Coordinación B,2,Pamela,Alcántara,Gómez,PAMELA ALCÁNTARA GÓMEZ,pamela.alcantara@ine.mx,5555991600,Pendiente,ANALISTA PROFESIONAL EJECUTIVO,Laptop,No,5CD6164NL5,Sin Docking
+27,Coordinación B,2,Angye,Ramírez,Mota,ANGYE RAMÍREZ MOTA,angye.ramirez@ine.mx,5555991600,Pendiente,ANALISTA PROFESIONAL EJECUTIVO B,Laptop,Si,MP1CV47M,M2B2640H
+28,Coordinación B,2,Lidia Nayely,Márquez,Olvera,LIDIA NAYELY MÁRQUEZ OLVERA,lidia.marquez@ine.mx,5555991600,Pendiente,ANALISTA PROFESIONAL EJECUTIVO,Laptop,Si,MP1CV1XX,M2B263Y7
+29,Coordinación B,2,Yasareli,Ceron,Silva,YASARELI CERON SILVA,yasareli.ceron@ine.mx,5555991600,370114,LÍDER DE PROYECTO DE DPN,Laptop,Si,MP1CUZSJ,M2B263XZ
+30,Coordinación B,2,Jorge Daniel,Martinez,Rojas,JORGE DANIEL MARTINEZ ROJAS,jorge.martinezr@ine.mx,5555991600,421669,PROFESIONAL EJECUTIVO DPN,Laptop,Si,MP1CV1S1,M2B263Y1
+31,Coordinación B,2,Ivonne ,Loranca,Cabrera,IVONNE  LORANCA CABRERA,ivonne.loranca@ine.mx,5555991600,372176,ANALISTA PROFESIONAL EJECUTIVO B,Laptop,Si,MP1CUZVU,M2B263YN
+32,Coordinación B,1,Nancy Paola ,Gómez ,Figueroa,NANCY PAOLA  GÓMEZ  FIGUEROA,nancy.gomezf@ine.mx,4493861720,Pendiente,SUBDIRECTORA / SUBDIRECTOR,Laptop,Si,MP1CV1WY,M2B263Y4
+33,Coordinación B,1,Jesús,Sánchez,Vieyra,JESÚS SÁNCHEZ VIEYRA,jesus.sanchezv@ine.mx,5585605709,421172,JEFE DE DEPARTAMENTO,Laptop,Si,MP1CV20W,Pendiente
+34,Coordinación B,1,Alfredo ,Hernández ,Ortega,ALFREDO  HERNÁNDEZ  ORTEGA,alfredo.hernandezo@ine.mx,5549374524,421669,JEFE DE DEPARTAMENTO,Laptop,Si,MP1CUXPH,M2B263WT
+35,Coordinación B,1,Milton ,Fragoso,Terreros,MILTON  FRAGOSO TERREROS,milton.fragoso@ine.mx,5586926067,421109,PROFESIONAL EJECUTIVO DPN,Laptop,Si,MP1CUXNV,Pendiente
+36,Coordinación B,1,Irene,Flores ,Valseca,IRENE FLORES  VALSECA,irene.floresv@ine.mx,5582271345,Pendiente,PROFESIONAL EJECUTIVO DPN,Laptop,Si,MP1CV1Q6,M2B263YW
+37,Coordinación B,1,Eréndira ,Pérez,Fuentes,ERÉNDIRA  PÉREZ FUENTES,erendira.perez@ine.mx,5536559256,Pendiente,ANALISTA PROFESIONAL EJECUTIVO B,Laptop,Si,MP1CUZSF,M2B263XW
+38,Coordinación B,1,Héctor Jesús,Canchola ,Baeza,HÉCTOR JESÚS CANCHOLA  BAEZA,hector.canchola@ine.mx,5539709475,Pendiente,ANALISTA PROFESIONAL EJECUTIVO B,Laptop,Si,MP1CUZQ7,M2B263XE
+39,Coordinación B,1,Mario Antonio,Ruiz ,Vargas,MARIO ANTONIO RUIZ  VARGAS,mario.ruizv@ine.mx,5611703442,Pendiente,ANALISTA PROFESIONAL EJECUTIVO,Laptop,Si,MP1CV1WW,M2B263Y3
+40,Coordinación B,1,Esteban,Mendoza ,Cortés,ESTEBAN MENDOZA  CORTÉS,esteban.mendoza@ine.mx,5528471684,Pendiente,ANALISTA PROFESIONAL EJECUTIVO,Laptop,Si,MP1CUVTF,M2B24LHD
+41,Coordinación B,1,Liliana Guadalupe ,Méndez,Andrade,LILIANA GUADALUPE  MÉNDEZ ANDRADE,liliana.mendez@ine.mx,5561642014,Pendiente,ANALISTA PROFESIONAL EJECUTIVO B,Laptop,Si,MP1CV40M,M2B263Z1
+42,Coordinación A,4,María Asunción  ,Figueroa,Gómez,MARÍA ASUNCIÓN   FIGUEROA GÓMEZ,asuncion.figueroa@ine.mx,5555991600,423177,SUBDIRECTORA / SUBDIRECTOR,Laptop,Si,MP1CUZPA,M2B23PAA
+43,Coordinación A,4,Violeta Estefanía ,Miranda ,Pérez,VIOLETA ESTEFANÍA  MIRANDA  PÉREZ,violeta.miranda@ine.mx,5535096528,372175,JEFE DE DEPARTAMENTO,Laptop,Si,MP1CUXL0,M2B1VHM8
+44,Coordinación A,4,Amairani Tatiana,Serrano,Parra,AMAIRANI TATIANA SERRANO PARRA,amairani.serrano@ine.mx,5567421542,Pendiente,PROFESIONAL EJECUTIVO DPN,Laptop,Si,MP1CV1XJ,M2B263Y5
+45,Coordinación A,4,Carla Fabiola,Ramírez,González,CARLA FABIOLA RAMÍREZ GONZÁLEZ,carla.ramirez@ine.mx,5621023818,372171,PROFESIONAL EJECUTIVO DPN,Laptop,Si,MP1CUZTH,M2B263YE
+46,Coordinación A,4,Carmen ,Espinoza ,Morales,CARMEN  ESPINOZA  MORALES,carmen.espinoza@ine.mx,5576966647,372195,ANALISTA PROFESIONAL EJECUTIVO,Laptop,Si,MP1CV41A,M2B263ZA
+47,Coordinación A,4,Carmen ,Espinoza ,Morales,CARMEN  ESPINOZA  MORALES,carmen.espinoza@ine.mx,5576966647,372195,ANALISTA PROFESIONAL EJECUTIVO,Escritorio,No,MJ06KKT2,Sin Docking
+48,Coordinación A,4,Zeidi Azucena ,Torres,Calzada,ZEIDI AZUCENA  TORRES CALZADA,zeidi.torres@ine.mx,5578181619,Pendiente,ANALISTA PROFESIONAL EJECUTIVO,Laptop,Si,MP1CUZUA,M2B263YL
+49,Coordinación A,4,Magali,Ortiz,Quezada,MAGALI ORTIZ QUEZADA,magali.ortiz@ine.mx,5535789821,372182,ANALISTA PROFESIONAL EJECUTIVO,Laptop,Si,MP1CV46K,M2B2640B
+50,Coordinación A,4,Luis Eduardo,Hernández,Alejandro,LUIS EDUARDO HERNÁNDEZ ALEJANDRO,eduardo.hernandezal@ine.mx,5538931330,423127,LÍDER DE PROYECTO DE DPN,Laptop,Si,MP1CUXQ9,M2B263WY
+51,Coordinación A,4,Armando,Nolasco,Carmona,ARMANDO NOLASCO CARMONA,armando.nolasco@ine.mx,2411637276,372183,PROFESIONAL EJECUTIVO DPN,Laptop,Si,MP1CUZSN,M2B263X0
+52,Coordinación A,4,Sonia Concepción,Román,Sánchez,SONIA CONCEPCIÓN ROMÁN SÁNCHEZ,sonia.roman@ine.mx,5510071810,372170,ANALISTA PROFESIONAL EJECUTIVO,Laptop,Si,MP1CUZTC,M2B263YB
+53,Coordinación A,4,Heydy,López,Martínez,HEYDY LÓPEZ MARTÍNEZ,heydy.lopez@ine.mx,5560681467,Pendiente,ANALISTA PROFESIONAL EJECUTIVO,Laptop,Si,MP1CUXNC,M2B1VHPH
+54,Coordinación A,4,Leilani,García,Álvarez,LEILANI GARCÍA ÁLVAREZ,leilani.garcia@ine.mx,5527622025,421122,ANALISTA PROFESIONAL EJECUTIVO B,Laptop,Si,MP1CUZRN,M2B263X6
+55,Coordinación A,4,Nancy Angélica,Rosas,Lechuga,NANCY ANGÉLICA ROSAS LECHUGA,nancy.rosasl@ine.mx,5580500267,423116,ANALISTA JUNIOR,Laptop,Si,MP1CV46Y,M2B2640F
+56,Coordinación A,4,Adriana Liliana,Román,Sánchez,ADRIANA LILIANA ROMÁN SÁNCHEZ,adriana.romans@ine.mx,5586042096,421164,ANALISTA JUNIOR,Laptop,Si,MP1CZWJ2,M2B24L1W
+57,Coordinación A,4,Julio Cesar,Samaniego,Ávila,JULIO CESAR SAMANIEGO ÁVILA,julio.samaniego@ine.mx,5547586811,372167,ANALISTA JUNIOR,Laptop,Si,5CD6164NJY,Sin Docking
+58,Coordinación B,6,Cristian Eduardo,García,Sígala,CRISTIAN EDUARDO GARCÍA SÍGALA,cristian.garcia@ine.mx,5534729901,421135,SUBDIRECTORA / SUBDIRECTOR,Laptop,Si,MP1CUXNZ,M2B1VL9E
+59,Coordinación B,6,Verónica,Contreras,Reyes,VERÓNICA CONTRERAS REYES,veronica.contrerasr@ine.mx,5537413089,372174,JEFE DE DEPARTAMENTO,Laptop,Si,5CD6164NM3,Sin Docking
+60,Coordinación B,6,Jose Abraham,Hernández,Pintor,JOSE ABRAHAM HERNÁNDEZ PINTOR,abraham.hernandez@ine.mx,5531937767,421181,LÍDER DE PROYECTO DE DPN,Laptop,Si,MP1CV47N,M2B26407
+61,Coordinación B,6,Jaime Rodolfo,Oviedo,Jiménez,JAIME RODOLFO OVIEDO JIMÉNEZ,jaime.oviedo@ine.mx,5583427673,372173,PROFESIONAL EJECUTIVO DPN,Laptop,Si,MP1CUZS5,M2B263X
+62,Coordinación B,6,Ezequiel,Jiménez,Lemus,EZEQUIEL JIMÉNEZ LEMUS,ezequiel.jimenez@ine.mx,5519356917,421138,PROFESIONAL EJECUTIVO DPN,Laptop,Si,MP1CUZQN,Pendiente
+63,Coordinación B,6,Angela Marlene,Jiménez,Rabadan,ANGELA MARLENE JIMÉNEZ RABADAN,angela.jimenez@ine.mx,5576190879,421135,ANALISTA PROFESIONAL EJECUTIVO,Laptop,Si,MP1CV46P,M2B2640C
+64,Coordinación B,6,Christian,Tilapa,Xospa,CHRISTIAN TILAPA XOSPA,christian.tilapa@ine.mx,5560665774,421135,ANALISTA PROFESIONAL EJECUTIVO,Laptop,Si,MP1CUZT7,M2B263YH 
+65,Coordinación B,6,Ricardo,Salomé,Lagos,RICARDO SALOMÉ LAGOS,ricardo.salome@ine.mx,5520221740,Pendiente,ANALISTA PROFESIONAL EJECUTIVO B,Laptop,Si,MP1CV20Q,M2B263ZB
+66,Coordinación B,6,Aurora,Heredia,Lorenzana ,AURORA HEREDIA LORENZANA ,aurora.heredia@ine.mx,5567372712,Pendiente,ANALISTA PROFESIONAL EJECUTIVO B,Laptop,Si,MP1CUXPE,M2B1VL9K
+67,Coordinación A,5,Arturo,Ortega ,Domínguez,ARTURO ORTEGA  DOMÍNGUEZ,arturo.ortega@ine.mx,5555991600,372194,PROFESIONAL EJECUTIVO DPN,Laptop,Si,MP1CUZTP,M2B263YG
+68,Coordinación A,5,Héctor Iván,Blas ,Jiménez,HÉCTOR IVÁN BLAS  JIMÉNEZ,hector.blas@ine.mx,5555991600,372194,ANALISTA PROFESIONAL EJECUTIVO,Laptop,Si,MP1CUZRY,M2B263XM
+69,Coordinación A,5,Eloisa,Cornejo,Escamilla,ELOISA CORNEJO ESCAMILLA,eloisa.cornejo@ine.mx,5555991600,421157,JEFE DE DEPARTAMENTO,Laptop,Si,MP1CUXLM,M2B1VHM7
+70,Coordinación A,5,Gabriela,Cruz,Martínez,GABRIELA CRUZ MARTÍNEZ,gabriela.cruzm@ine.mx,5555991600,372196,ANALISTA PROFESIONAL EJECUTIVO B,Laptop,Si,MP1CV44U ,M2B263Z8
+71,Coordinación A,5,Yaritzel,Primo,Valencia,YARITZEL PRIMO VALENCIA,yaritzel.primo@ine.mx,5555991600,372196,ANALISTA PROFESIONAL EJECUTIVO B,Laptop,Si,MP1CUXML,M2B1VHNY
+72,Coordinación A,5,Rafael,García,Rodríguez,RAFAEL GARCÍA RODRÍGUEZ,rafael.garciar@ine.mx,5555991600,372196,PROFESIONAL EJECUTIVO DPN,Laptop,Si,5CD6164NKF,Sin Docking
+73,Coordinación A,5,Rafael,García,Rodríguez,RAFAEL GARCÍA RODRÍGUEZ,rafael.garciar@ine.mx,5555991600,372196,PROFESIONAL EJECUTIVO DPN,Escritorio,Si,MJ06KKW0,Sin Docking
+74,Coordinación A,5,Gabriela,Cruz,Martínez,GABRIELA CRUZ MARTÍNEZ,gabriela.cruzm@ine.mx,5555991600,372166,ANALISTA PROFESIONAL EJECUTIVO B,Escritorio,No,MJ06M5LZ,Sin Docking
+75,Coordinación A,5,Víctor Manuel,Camarillo ,Guevara,VÍCTOR MANUEL CAMARILLO  GUEVARA,victor.camarillo@ine.mx,5555991600,372166,PROFESIONAL EJECUTIVO DPN,Laptop,Si,MP1CUZQQ,M2B263XB
+76,Coordinación A,5,Jonathan,Pérez,Hernández,JONATHAN PÉREZ HERNÁNDEZ,jonathan.perez@ine.mx,5555991600,372166,ANALISTA PROFESIONAL EJECUTIVO B,Laptop,Si,MP1CUZCB,M2B263XN
+77,Coordinación A,5,Rosaura,Cortés,Ortega,ROSAURA CORTÉS ORTEGA,rosaura.cortes@ie.mx,5555991600,372166,ANALISTA PROFESIONAL EJECUTIVO B,Laptop,Si,MP1CUXN6,M2B1VL9F
+78,Coordinación A,5,Leonardo Daniel,Banderas ,Muñoz,LEONARDO DANIEL BANDERAS  MUÑOZ,leonardo.banderas@ine.mx,5555991600,372196,LÍDER DE PROYECTO DE DPN,Escritorio,Si,MJ06KKND,Sin Docking
+79,Coordinación A,5,Leonardo Daniel,Banderas ,Muñoz,LEONARDO DANIEL BANDERAS  MUÑOZ,leonardo.banderas@ine.mx,5555991600,372196,LÍDER DE PROYECTO DE DPN,Laptop,Si,MP1CUXMW,M2B1VHPE
+80,Coordinación A,5,Yeni Teresa ,Sánchez, Gómez,YENI TERESA  SÁNCHEZ  GÓMEZ,yeni.sanchez@ine.mx,55991600,423129,SUBDIRECTORA / SUBDIRECTOR,Laptop,Si,MP1CV21Y,M2B263ZV
+81,Sin asignar,Sin asignar,Sin asignar,Sin asignar,Sin asignar,Sin asignar,Sin asignar,Sin asignar,Sin asignar,Sin asignar,Sin asignar,Sin asignar,MJ06LLTV,Sin Docking
+82,Sin asignar,Sin asignar,Sin asignar,Sin asignar,Sin asignar,Sin asignar,Sin asignar,Sin asignar,Sin asignar,Sin asignar,Sin asignar,Sin asignar,MJ06LLTQ,Sin Docking
+83,Sin asignar,Sin asignar,Sin asignar,Sin asignar,Sin asignar,Sin asignar,Sin asignar,Sin asignar,Sin asignar,Sin asignar,Sin asignar,Sin asignar,MJ06LLTP,Sin Docking
+84,Sin asignar,Sin asignar,Sin asignar,Sin asignar,Sin asignar,Sin asignar,Sin asignar,Sin asignar,Sin asignar,Sin asignar,Sin asignar,Sin asignar,MJ06LLTU,Sin Docking
+85,DPN,Sin asignar,Sin asignar,Sin asignar,Sin asignar,Sin asignar,Sin asignar,Sin asignar,Sin asignar,SECRETARIA,Escritorio,No,MJ06KKUY,Sin Docking
+86,Coordinación A,Coordinadora,Esmeralda,Lara,Rodriguez,Esmeralda Lara Rodriguez,esmeralda.lara@ine.mx,5556284200,421614,COORDINADORA,Laptop,Si,MP1CUZQ3,Pendiente
+87,DPN,Sin asignar,Sin asignar,Sin asignar,Sin asignar,Sin asignar,Sin asignar,Sin asignar,Sin asignar,DIRECTOR,Laptop,No,MP1CUZU6,pendiente
+88,DPN,Sin asignar,Sin asignar,Sin asignar,Sin asignar,Sin asignar,Sin asignar,Sin asignar,Sin asignar,MENSAJERO,Escritorio,No,MJ06M5SU,Sin Docking
+89,Coordinación A,3,Sin asignar,Sin asignar,Sin asignar,Sin asignar,Sin asignar,Sin asignar,Sin asignar,Sin asignar,Estación de Trabajo ETB,Pendiente,MJ06HDEN,Sin Docking
+90,Coordinación A,3,Sin asignar,Sin asignar,Sin asignar,Sin asignar,Sin asignar,Sin asignar,Sin asignar,Sin asignar,Estación de Trabajo ETB,Pendiente,MJ06HDEQ,Sin Docking
+91,Coordinación A,3,Sin asignar,Sin asignar,Sin asignar,Sin asignar,Sin asignar,Sin asignar,Sin asignar,Sin asignar,Estación de Trabajo ETB,Pendiente,MJ06LN1U,Sin Docking
+92,Coordinación A,3,Sin asignar,Sin asignar,Sin asignar,Sin asignar,Sin asignar,Sin asignar,Sin asignar,Sin asignar,Estación de Trabajo ETB,Pendiente,MJ06HDDY,Sin Docking
+93,Coordinación A,3,Claudia Marlen,Enriquez,Terreros,CLAUDIA MARLEN ENRIQUEZ TERREROS,claudia.enriquezt@ine.mx,5555991600,421174,ANALISTA JUNIOR,Escritorio,Pendiente,MJ06MNXR,Sin Docking
+94,Coordinación A,3,Julio Cesar,Samaniego,Ávila,JULIO CESAR SAMANIEGO ÁVILA,julio.samaniego@ine.mx,5547586811,372167,ANALISTA JUNIOR,Escritorio,Pendiente,MJ06M3ZL,Sin Docking
+95,Coordinación B,1,Jessica,Fuentes ,Saavedra,JESSICA FUENTES  SAAVEDRA,jessica.fuentes@ine.mx,5555991600,372188,PROFESIONAL EJECUTIVO DPN,Escritorio,Pendiente,MJ06KKUE,Sin Docking
+96,Coordinación B,6,Verónica,Contreras,Reyes,VERÓNICA CONTRERAS REYES,veronica.contrerasr@ine.mx,5537413089,372174,JEFE DE DEPARTAMENTO,Escritorio,Pendiente,MJ06KKTH,Sin Docking
+97,Coordinación B,6,Jose Abraham,Hernández,Pintor,JOSE ABRAHAM HERNÁNDEZ PINTOR,abraham.hernandez@ine.mx,5531937767,421181,LÍDER DE PROYECTO DE DPN,Escritorio,Pendiente,MJ06KKXJ,Sin Docking
